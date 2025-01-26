@@ -1,2 +1,2 @@
-# SASS_Exam
+# SASS_Project
 Mini project with SASS
